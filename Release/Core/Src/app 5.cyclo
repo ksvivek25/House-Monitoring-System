@@ -1,0 +1,13 @@
+../Core/Src/app 5.c:330:6:addKey	3
+../Core/Src/app 5.c:314:6:scan	5
+../Core/Src/app 5.c:339:6:getKey	1
+../Core/Src/app 5.c:349:6:resetPins	1
+../Core/Src/app 5.c:379:6:UART_TransmitString	2
+../Core/Src/app 5.c:308:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/app 5.c:356:6:ShowCommands	1
+../Core/Src/app 5.c:361:6:printDisplay	3
+../Core/Src/app 5.c:256:6:HAL_TIM_PeriodElapsedCallback	14
+../Core/Src/app 5.c:389:6:Fan_Init	1
+../Core/Src/app 5.c:103:6:App_Init	1
+../Core/Src/app 5.c:413:6:Control_Fan	5
+../Core/Src/app 5.c:137:6:App_MainLoop	14
