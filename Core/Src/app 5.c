@@ -21,9 +21,9 @@
 #define LED_RED GPIO_PIN_7
 #define BUZZER GPIO_PIN_9
 
-#define PORTA GPIOA
 #define LED_PIN GPIO_PIN_5
 // keypad input pins
+#define PORTA GPIOA
 #define KEYPIN1 GPIO_PIN_10
 #define KEYPIN2 GPIO_PIN_11
 #define KEYPIN3 GPIO_PIN_12
