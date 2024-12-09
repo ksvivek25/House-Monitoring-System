@@ -1,2 +1,2 @@
 # House-Monitoring-System
-This is julian editing the readme
+House monitoring systems are everywhere. We can see electronics such as those manufactured by Ring, that monitor the inside and outside of your house. There are other companies, such as ADT, that offer services that protect your house from intruders. We wanted to come up with a similar system where you can monitor your house and create a security system that can keep your home safe.
