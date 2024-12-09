@@ -181,17 +181,9 @@ void App_MainLoop(void) {
 				HAL_GPIO_WritePin(LED_PORT, LED_GREEN, GPIO_PIN_SET);
 			}
 		} else {
-//			if (userKey == '#'){ // used to get the value for adc
-//
-//				sprintf(strBuffer, "%7.2f", temp);
-//				UART_TransmitString(&huart2, "TEMP (C): ", 0); // adc -- print adc value
-//				UART_TransmitString(&huart2, strBuffer, 1); // adc -- print adc value
-//			}
-			//else {
-				userInput[pos] = userKey;
-				pos++;
-				UART_TransmitString(&huart2, &userKey, 0); // uart -- print the key the user pressed
-			//}
+			userInput[pos] = userKey;
+			pos++;
+			UART_TransmitString(&huart2, &userKey, 0); // uart -- print the key the user pressed
 
 			// turn on security system
 			if (pos == 4){
