@@ -11,4 +11,4 @@ Project Goals:
 •	Implement sensors using Nucleo board functionalities.
 
 Video DEMO: https://myunt-my.sharepoint.com/:v:/r/personal/saivivekkurapati_my_unt_edu/Documents/IMG_8102.MOV?csf=1&web=1&e=2mF8GJ&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiJiNDI4YjI5Yi04ODc2LTRiZjktYjgxYy1kMGYxNGU4YWQyODYifX0%3D
-## Additional Features are being added and updates will be posted.
+
