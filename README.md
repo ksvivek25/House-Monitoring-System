@@ -7,7 +7,7 @@ Using a STM32 Nucleo-L476RG Development board to incorporate a keypad to enable 
 
 Project Goals:
 
-•	Successfully use the capabilities of the STM32-Nucleo Evaluation board to Design and implement a house monitoring system.
+•	use the capabilities of the STM32-Nucleo Evaluation board to Design and implement a house monitoring system.
 •	Implement sensors using Nucleo board functionalities.
 
 Video Demo: https://youtu.be/yLNpR8Je8vg
